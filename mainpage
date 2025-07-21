@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link href="./MainStyle.css" type="text/css" rel="stylesheet">
+<link href="./mainstyle.css" type="text/css" rel="stylesheet">
 <html>
 <title>Main Screen</title>
 <header style="text-align: center;"><h1>Bar Location</h1></header>
