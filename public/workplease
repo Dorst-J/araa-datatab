@@ -1,4 +1,3 @@
-<a href="https://deploy.workers.cloudflare.com/?url=<YOUR_REPO_URL>"><img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare"/></a>
 <header style="text-align: center;"><h1>Bar Location</h1></header>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!-- Row 1 -->
